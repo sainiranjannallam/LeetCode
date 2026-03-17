@@ -30,6 +30,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chintisHub/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chintisHub/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chintisHub/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -98,6 +99,7 @@
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/chintisHub/LeetCode/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chintisHub/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -130,6 +132,7 @@
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chintisHub/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## String
@@ -238,6 +241,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/chintisHub/LeetCode/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/chintisHub/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chintisHub/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chintisHub/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
