@@ -97,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/chintisHub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/chintisHub/LeetCode/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -145,6 +146,7 @@
 | [0022-generate-parentheses](https://github.com/chintisHub/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/chintisHub/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
+| [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -181,6 +183,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/chintisHub/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/chintisHub/LeetCode/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
