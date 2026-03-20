@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/chintisHub/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/chintisHub/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/chintisHub/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/chintisHub/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/chintisHub/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/chintisHub/LeetCode/tree/master/0036-valid-sudoku) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chintisHub/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/chintisHub/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/chintisHub/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/chintisHub/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
@@ -91,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chintisHub/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/chintisHub/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
