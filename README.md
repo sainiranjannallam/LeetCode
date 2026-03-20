@@ -151,6 +151,7 @@
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chintisHub/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chintisHub/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -365,6 +366,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chintisHub/LeetCode/tree/master/0022-generate-parentheses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chintisHub/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Union-Find
 |  |
 | ------- |
