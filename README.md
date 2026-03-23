@@ -274,6 +274,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chintisHub/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chintisHub/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -283,11 +284,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/chintisHub/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/chintisHub/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -302,6 +305,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
