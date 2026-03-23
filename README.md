@@ -118,6 +118,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chintisHub/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chintisHub/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/chintisHub/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintisHub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/chintisHub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chintisHub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/chintisHub/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/chintisHub/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chintisHub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chintisHub/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/chintisHub/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -215,6 +217,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chintisHub/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/chintisHub/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
