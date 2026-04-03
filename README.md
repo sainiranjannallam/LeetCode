@@ -59,6 +59,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chintisHub/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/chintisHub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chintisHub/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/chintisHub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [1013-fibonacci-number](https://github.com/chintisHub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chintisHub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/chintisHub/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Graph
 |  |
 | ------- |
@@ -242,6 +245,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/chintisHub/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/chintisHub/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
 | ------- |
