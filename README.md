@@ -62,6 +62,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chintisHub/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/chintisHub/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/chintisHub/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/chintisHub/LeetCode/tree/master/0948-sort-an-array) |
+| [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chintisHub/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -427,4 +431,8 @@
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
