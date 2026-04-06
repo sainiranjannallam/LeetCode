@@ -178,6 +178,7 @@
 | [0049-group-anagrams](https://github.com/chintisHub/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chintisHub/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
+| [0657-robot-return-to-origin](https://github.com/chintisHub/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chintisHub/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -206,6 +207,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/chintisHub/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/chintisHub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/chintisHub/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
