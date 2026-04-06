@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
+| [0874-walking-robot-simulation](https://github.com/chintisHub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/chintisHub/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -76,6 +77,7 @@
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
+| [0874-walking-robot-simulation](https://github.com/chintisHub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -204,6 +206,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/chintisHub/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/chintisHub/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
