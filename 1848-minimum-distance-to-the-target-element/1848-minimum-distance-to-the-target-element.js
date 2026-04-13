@@ -1,0 +1,9 @@
+var getMinDistance = function(nums, target, start) {
+    let mindist = Infinity;
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] === target) {
+            mindist = Math.min(mindist, Math.abs(i - start));
+        }
+    }
+    return mindist;
+};
