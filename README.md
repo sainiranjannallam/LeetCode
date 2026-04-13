@@ -66,6 +66,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chintisHub/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chintisHub/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/chintisHub/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chintisHub/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
