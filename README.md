@@ -34,6 +34,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chintisHub/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/chintisHub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chintisHub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/chintisHub/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -170,6 +171,7 @@
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/chintisHub/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chintisHub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
