@@ -36,6 +36,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chintisHub/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chintisHub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/chintisHub/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chintisHub/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chintisHub/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
