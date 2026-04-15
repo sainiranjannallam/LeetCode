@@ -344,6 +344,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/chintisHub/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -351,6 +352,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/chintisHub/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/chintisHub/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chintisHub/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
