@@ -46,6 +46,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/chintisHub/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/chintisHub/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/chintisHub/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/chintisHub/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chintisHub/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/chintisHub/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -128,6 +129,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/chintisHub/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/chintisHub/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chintisHub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -145,6 +147,7 @@
 | [1013-fibonacci-number](https://github.com/chintisHub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chintisHub/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/chintisHub/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/chintisHub/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/chintisHub/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chintisHub/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
