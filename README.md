@@ -47,6 +47,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/chintisHub/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/chintisHub/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/chintisHub/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chintisHub/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/chintisHub/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/chintisHub/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -210,6 +211,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/chintisHub/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/chintisHub/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/chintisHub/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chintisHub/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/chintisHub/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chintisHub/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chintisHub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
