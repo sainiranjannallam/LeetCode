@@ -62,6 +62,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chintisHub/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/chintisHub/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chintisHub/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chintisHub/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -405,6 +406,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/chintisHub/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintisHub/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/chintisHub/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
