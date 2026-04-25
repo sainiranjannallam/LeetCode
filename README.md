@@ -231,6 +231,7 @@
 | [2487-optimal-partition-of-string](https://github.com/chintisHub/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chintisHub/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/chintisHub/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/chintisHub/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chintisHub/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chintisHub/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -274,6 +275,7 @@
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chintisHub/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2833-furthest-point-from-origin](https://github.com/chintisHub/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/chintisHub/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
