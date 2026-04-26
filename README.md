@@ -75,6 +75,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/chintisHub/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chintisHub/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chintisHub/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3719-longest-balanced-subarray-i](https://github.com/chintisHub/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chintisHub/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chintisHub/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -108,6 +109,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/chintisHub/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/chintisHub/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/chintisHub/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chintisHub/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chintisHub/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -278,6 +280,7 @@
 | [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/chintisHub/LeetCode/tree/master/0948-sort-an-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chintisHub/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/chintisHub/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
@@ -332,6 +335,7 @@
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/chintisHub/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/chintisHub/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/chintisHub/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
@@ -517,6 +521,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/chintisHub/LeetCode/tree/master/1622-fancy-sequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/chintisHub/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Number Theory
 |  |
