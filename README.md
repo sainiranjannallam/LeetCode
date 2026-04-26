@@ -224,6 +224,7 @@
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/chintisHub/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chintisHub/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/chintisHub/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chintisHub/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chintisHub/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -345,6 +346,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/chintisHub/LeetCode/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chintisHub/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/chintisHub/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chintisHub/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
