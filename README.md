@@ -219,6 +219,7 @@
 | [0761-special-binary-string](https://github.com/chintisHub/LeetCode/tree/master/0761-special-binary-string) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chintisHub/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chintisHub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/chintisHub/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/chintisHub/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/chintisHub/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chintisHub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/chintisHub/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/chintisHub/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -421,6 +423,7 @@
 | [0868-binary-gap](https://github.com/chintisHub/LeetCode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/chintisHub/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chintisHub/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chintisHub/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/chintisHub/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2509-minimize-xor](https://github.com/chintisHub/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/chintisHub/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
