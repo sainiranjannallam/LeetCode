@@ -62,6 +62,7 @@
 | [2906-construct-product-matrix](https://github.com/chintisHub/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chintisHub/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3093-longest-common-suffix-queries](https://github.com/chintisHub/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/chintisHub/LeetCode/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/chintisHub/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chintisHub/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/chintisHub/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -318,6 +319,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/chintisHub/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3161-block-placement-queries](https://github.com/chintisHub/LeetCode/tree/master/3161-block-placement-queries) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/chintisHub/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
@@ -534,6 +536,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/chintisHub/LeetCode/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/chintisHub/LeetCode/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/chintisHub/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/chintisHub/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Number Theory
@@ -548,4 +551,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/chintisHub/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/chintisHub/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
